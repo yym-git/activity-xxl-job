@@ -8,5 +8,6 @@ package com.bc.test.job.activityxxljob.test;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("新建的分支yym，step1");
+        System.out.println("新建的分支yym，step2");
     }
 }
