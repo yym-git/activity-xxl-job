@@ -30,7 +30,6 @@ public class MyJobHandler {
     @XxlJob(value = "firstJob")
     public void firstJob() throws Exception {
         String jobParam = XxlJobHelper.getJobParam();
-        log.info("测试数据");
         log.info("自定义任务执行器，端口：{}，参数：{}---------------------", port, jobParam);
     }
 
