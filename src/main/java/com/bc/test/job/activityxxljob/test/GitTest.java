@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("新建的分支yym，step1");
         System.out.println("新建的分支yym，step2");
         System.out.println("master主分支，step3");
+        System.out.println("新建的分支yym，step3");
     }
 }
